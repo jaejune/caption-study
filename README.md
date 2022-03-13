@@ -2,7 +2,7 @@
 
 캡션 스터디는 자신이 보고싶은 영상을 봄과 동시에 외국어 공부도 할 수 있는 어플리케이션입니다.
 
-contact: kooom040@gmail.com
+이메일: kooom040@gmail.com
 
 ## 캡션 스터디 사용 가이드 (For IOS)
 
